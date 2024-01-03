@@ -1,7 +1,4 @@
-Certainly! Here's a basic template for a README file for your Bash script project on GitHub:
 
-markdown
-Copy code
 # Database Management System (DBMS) in Bash
 
 Welcome to our simple Database Management System (DBMS) implemented in Bash. This script allows you to create, manage, and manipulate databases and tables right from your terminal.
@@ -33,13 +30,16 @@ Copy code
 bash main.sh
 
 ## Usage
-Follow the on-screen instructions to navigate through the menus and perform various operations. Here are the main options:
+
+# Follow the on-screen instructions to navigate through the menus and perform various operations. Here are the main options:
 
 Create New DB: Create a new database with custom tables.
 Open DB: Open an existing database and perform table operations.
 List All DB: List all available databases.
 Delete DB: Delete an existing database.
-Tables Menu (accessible after opening a database):
+
+
+# Tables Menu (accessible after opening a database):
 
 Create New Table: Create a new table within the selected database.
 List Tables: List all tables in the current database.
@@ -52,10 +52,7 @@ Select from Table: Perform select operations on a table.
 Contributing
 Feel free to contribute to this project. Fork the repository, make your changes, and submit a pull request. Your contributions are highly appreciated!
 
-License
+## License
 This project is licensed under the MIT License.
 
-go
-Copy code
-
-Replace `your-username` and `your-repo` with your GitHub username and rep
+Replace `IngyEl-Sakhawy` and `[https://github.com/IngyEl-Sakhawy/Database-Management-Sys-With-Bash.git]` with your GitHub username and repository URL, respectively, when you fork and contribute to the project.
