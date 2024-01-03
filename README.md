@@ -36,6 +36,7 @@ List All DB: List all available databases.
 Delete DB: Delete an existing database.
 
 
+
 ### Tables Menu (accessible after opening a database):
 
 Create New Table: Create a new table within the selected database.
