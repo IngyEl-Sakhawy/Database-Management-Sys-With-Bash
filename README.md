@@ -17,21 +17,15 @@ Welcome to our simple Database Management System (DBMS) implemented in Bash. Thi
 
    ```bash
    git clone https://github.com/your-username/your-repo.git
-Save to grepper
-Navigate to the project directory:
 
-bash
-Copy code
-cd your-repo
-Run the script:
+2. Navigate to the project directory:
+    ```bash
+    ./dbsm.sh
 
-bash
-Copy code
-bash main.sh
 
 ## Usage
 
-# Follow the on-screen instructions to navigate through the menus and perform various operations. Here are the main options:
+### Follow the on-screen instructions to navigate through the menus and perform various operations. Here are the main options:
 
 Create New DB: Create a new database with custom tables.
 
@@ -42,7 +36,7 @@ List All DB: List all available databases.
 Delete DB: Delete an existing database.
 
 
-# Tables Menu (accessible after opening a database):
+### Tables Menu (accessible after opening a database):
 
 Create New Table: Create a new table within the selected database.
 
@@ -59,6 +53,7 @@ Delete Record from Table: Delete a record from a table.
 Update Table: Update a record in a table.
 
 Select from Table: Perform select operations on a table.
+
 
 ## Contributing
 Feel free to contribute to this project. Fork the repository, make your changes, and submit a pull request. Your contributions are highly appreciated!
