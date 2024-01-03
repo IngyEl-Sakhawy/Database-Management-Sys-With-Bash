@@ -18,7 +18,7 @@ Welcome to our simple Database Management System (DBMS) implemented in Bash. Thi
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
-2. Navigate to the project directory:
+2. Navigate to the project directory & Run:
     ```bash
     ./dbsm.sh
 
