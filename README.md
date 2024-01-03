@@ -34,22 +34,33 @@ bash main.sh
 # Follow the on-screen instructions to navigate through the menus and perform various operations. Here are the main options:
 
 Create New DB: Create a new database with custom tables.
+
 Open DB: Open an existing database and perform table operations.
+
 List All DB: List all available databases.
+
 Delete DB: Delete an existing database.
 
 
 # Tables Menu (accessible after opening a database):
 
 Create New Table: Create a new table within the selected database.
+
 List Tables: List all tables in the current database.
+
 Delete Table: Delete a table from the current database.
+
 Content of Table: Display the content of a table.
+
 Insert in Table: Insert a new record into a table.
+
 Delete Record from Table: Delete a record from a table.
+
 Update Table: Update a record in a table.
+
 Select from Table: Perform select operations on a table.
-Contributing
+
+## Contributing
 Feel free to contribute to this project. Fork the repository, make your changes, and submit a pull request. Your contributions are highly appreciated!
 
 ## License
